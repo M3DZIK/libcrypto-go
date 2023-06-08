@@ -1,5 +1,5 @@
-module github.com/MedzikUser/libcrypto-go
+module github.com/M3DZIK/libcrypto-go
 
 go 1.17
 
-require golang.org/x/crypto v0.1.0
+require golang.org/x/crypto v0.9.0

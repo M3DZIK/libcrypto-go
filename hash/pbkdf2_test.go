@@ -3,7 +3,7 @@ package hash_test
 import (
 	"testing"
 
-	"github.com/MedzikUser/libcrypto-go/hash"
+	"github.com/M3DZIK/libcrypto-go/hash"
 )
 
 func TestPbkdf2Hash256(t *testing.T) {

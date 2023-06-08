@@ -3,7 +3,7 @@ package rsa_test
 import (
 	"testing"
 
-	"github.com/MedzikUser/libcrypto-go/rsa"
+	"github.com/M3DZIK/libcrypto-go/rsa"
 )
 
 func TestSign(t *testing.T) {

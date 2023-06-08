@@ -3,7 +3,7 @@ package libcrypto_test
 import (
 	"testing"
 
-	"github.com/MedzikUser/libcrypto-go"
+	"github.com/M3DZIK/libcrypto-go"
 )
 
 func TestGenerateSalt(t *testing.T) {

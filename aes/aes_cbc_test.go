@@ -3,8 +3,8 @@ package aes_test
 import (
 	"testing"
 
-	"github.com/MedzikUser/libcrypto-go/aes"
-	"github.com/MedzikUser/libcrypto-go/hash"
+	"github.com/M3DZIK/libcrypto-go/aes"
+	"github.com/M3DZIK/libcrypto-go/hash"
 )
 
 func TestAesCbc(t *testing.T) {
